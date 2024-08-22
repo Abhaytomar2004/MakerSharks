@@ -23,7 +23,7 @@ This is a proof of concept (POC) for a search API that allows buyers to search f
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/makersharks-search-api.git
+  [ git clone https://github.com/your-username/makersharks-search-api.git](https://github.com/Abhaytomar2004/MakerSharks.git)
 2 . Navigate to the project Directory 
 cd makersharks-search-api(bash)
 3. Build the project using maven 
