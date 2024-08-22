@@ -30,3 +30,11 @@ cd makersharks-search-api(bash)
 mvn clean install (bash)
 4 running the application 
 mvn spring-boot:run (bash) 
+###Curl commands
+curl -X POST "http://localhost:8080/api/supplier/query" \
+    -d "location=meerut" \
+    -d "natureOfBusiness=raw \
+    -d "manufacturingProcesses=small scale" \
+    -d "page=0" \
+    -d "size=10"
+
